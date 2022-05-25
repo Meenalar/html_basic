@@ -50,7 +50,7 @@ function kg2lb2kg(a) {
         console.log((vlb / 2.0246) + " kgs")
     }
     else {
-        console.log("Not a valid input")
+        console.log("Not valid input")
     }
 }
 kg2lb2kg("117lb")
